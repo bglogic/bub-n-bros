@@ -381,3 +381,6 @@ bubbob/images/fish_[2-9].ppm
 *.plg
 
 http2/config.txt
+
+# Ignore mise config
+mise.toml
